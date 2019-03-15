@@ -1,8 +1,10 @@
 
-Abhay Nigam (17BCE10124)
-Prakhar Agrawal (17BCE10014)  
+Abhay Nigam (17BCE10124) , 
+Prakhar Agrawal (17BCE10014)
 
-Our Project
+
+
+ DEMO : https://youtu.be/XkPQSEds5oE
 
 We have developed a Self pace learning application where users can subscribe for various programs (Currently only java) through our app and learn by seeing various tutorials available directly streaming on their devices. Through this application one can easily access to all the videos that are necessary for learning java from basic to the most advance level. It basically contains collection of all the videos of java tutorials from beginners to advance user learning. To use this application user can register and subscribe to any program available and the list of tutorial will be available on their dashboard screen. After login the user is able to access all the videos available on the application.
 
