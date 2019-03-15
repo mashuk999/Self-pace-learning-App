@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749688006084",
+    "firebase_url": "https://java-udemy.firebaseio.com",
+    "project_id": "java-udemy",
+    "storage_bucket": "java-udemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749688006084:android:e1cc35925442ee89",
+        "android_client_info": {
+          "package_name": "com.example.deepak.androidclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749688006084-btu0bnjkljkjo6g2mlla6he4tb6n3h00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deepak.androidclub",
+            "certificate_hash": "dda11f2b67c72edc11f9105dfb2201464b768a34"
+          }
+        },
+        {
+          "client_id": "749688006084-2348hvk53ap5k5ki1gjivflumdi30h3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiDfxsQ_9seUpLAvGDEqj7tYw_iSwIj_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749688006084-2348hvk53ap5k5ki1gjivflumdi30h3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Java Tutorials</string>
+
+    <string name="title_activity_watch_lecture">WatchLecture</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+    <string name="title_activity_watch_video">WatchVideo</string>
+    <string name="login">Java Tutorials</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Announcements</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
