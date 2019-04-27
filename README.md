@@ -1,6 +1,5 @@
 
-Abhay Nigam (17BCE10124) , 
-Prakhar Agrawal (17BCE10014)
+Abhay Nigam (17BCE10124)
 
 
 
